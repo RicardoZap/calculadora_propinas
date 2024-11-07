@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Este proyecto está realizado con TypeScrit y Tailwind para dar estilos básicos al proyecto.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
